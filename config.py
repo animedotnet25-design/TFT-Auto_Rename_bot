@@ -30,7 +30,7 @@ class Config(object):
  
     # other configs
     BOT_UPTIME  = time.time()
-    START_PIC   = os.environ.get("START_PIC", "https://files.catbox.moe/ufzpkn.jpg")
+    START_PIC   = os.environ.get("START_PIC", "https://i.ibb.co/7NpcHcXB/VN9s-B81u.jpg")
     
     FORCE_SUB_CHANNELS = os.environ.get('FORCE_SUB_CHANNELS', "ls bots").split(',')
     LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "1003990983453" ))
@@ -53,16 +53,16 @@ class Txt(object):
 
 ➻ This Bot is only for Admin use other can use with low limitation </blockquote>
 
-<blockquote><b>Bot Is Made By :</b> @Tech_Freak_Tamil</blockquote>"""
+<blockquote><b>Bot Is Made By :</b> https://t.me/+P__SvBSZf0BmYmM1</blockquote>"""
 
-    ABOUT_TXT = f"""<blockquote><b>😈 My Name :</b> <a href='https://t.me/Tech_Freak_Tamil'>Auto Renamer bot ⚡</a>
+    ABOUT_TXT = f"""<blockquote><b>😈 My Name :</b> <a href='Ls Bots'>Auto Renamer bot ⚡</a>
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
 <b>📢 Channel :</b> <a href='https://t.me/Tech_Freak_Tamil'>TFT BOTS</a>
 <b>🛡️ Disscussion :</b> <a href='https://t.me/+ov2l_dY_8jA3MGVl'>TFT Discussion</a></blockquote>
     
-<blockquote><b>😈 Bot Made By :</b> <a href='https://t.me/+ov2l_dY_8jA3MGVl'>TFT Discussion</a></blockquote>"""
+<blockquote><b>😈 Bot Made By :</b> <a href='https://t.me/+P__SvBSZf0BmYmM1'>Ls bots</a></blockquote>"""
 
     HELP_TXT = """<blockquote>
 🌌 <b><u>How To Set Thumbnail</u></b>
