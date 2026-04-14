@@ -32,7 +32,7 @@ class Config(object):
     BOT_UPTIME  = time.time()
     START_PIC   = os.environ.get("START_PIC", "https://i.ibb.co/7NpcHcXB/VN9s-B81u.jpg")
     
-    FORCE_SUB_CHANNELS = os.environ.get('FORCE_SUB_CHANNELS', "https://t.me/ls_bots").split(',')
+    FORCE_SUB_CHANNELS = os.environ.get('FORCE_SUB_CHANNELS', "1003843248691").split(',')
     LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "1003990983453" ))
     DUMB_CHANNEL = os.environ.get("DUMB_CHANNEL", "")
     
