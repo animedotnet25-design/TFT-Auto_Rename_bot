@@ -23,7 +23,7 @@ class Config(object):
 
     # database config
     DB_NAME = os.environ.get("DB_NAME","lsbots")     
-    DB_URL  = os.environ.get("DB_URL","")
+    DB_URL  = os.environ.get("DB_URL","mongodb+srv://animearc1525:ifx9pVcA9qSkyjhI@cluster0.ybttjlc.mongodb.net/?appName=Cluster0")
     PORT = os.environ.get("PORT", "8050")
     OWNER = int(os.environ.get("OWNER", "8337976117"))
     PRIVATE_USE = False #If Bot is private use set True otherwise False
