@@ -105,9 +105,9 @@ If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upt
 
 For Example :-
 
-<code>By :- @Tech_Freak_Tamil</code>
+<code>By :- @ls_bots</code>
 
-💬 For Any Help Contact @Tech_Freak_Tamil
+💬 For Any Help Contact @ls_bots
 </blockquote>"""
 
 
